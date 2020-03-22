@@ -1,2 +1,2 @@
-# HangoutsMegu
-Hangouts for Meguro
+# Hangouts
+Hangouts for men
